@@ -1,0 +1,2 @@
+# easylogger
+libeasylogger.so
